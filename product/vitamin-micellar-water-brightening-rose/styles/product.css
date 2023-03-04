@@ -1,0 +1,42 @@
+.vitamin-micellar-water-brightening-rose > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-brightening-rose > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-brightening-rose > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-brightening-rose > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-brightening-rose > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-brightening-rose > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.vitamin-micellar-water-brightening-rose > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 720px;
+  left: 930px;
+}
+
+.vitamin-micellar-water-brightening-rose > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 430px;
+  left: 1580px;
+}

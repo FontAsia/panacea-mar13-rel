@@ -1,0 +1,48 @@
+.vitamin-micellar-water-detoxing-charcoal > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.vitamin-micellar-water-detoxing-charcoal > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 720px;
+  left: 800px;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 550px;
+  left: 1180px;
+}
+
+.vitamin-micellar-water-detoxing-charcoal > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 320px;
+  left: 1700px;
+}

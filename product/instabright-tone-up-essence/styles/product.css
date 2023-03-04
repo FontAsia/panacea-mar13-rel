@@ -1,0 +1,48 @@
+.instabright-tone-up-essence > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.instabright-tone-up-essence > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.instabright-tone-up-essence > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.instabright-tone-up-essence > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.instabright-tone-up-essence > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.instabright-tone-up-essence > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.instabright-tone-up-essence > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 690px;
+  left: 800px;
+}
+
+.instabright-tone-up-essence > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 530px;
+  left: 1200px;
+}
+
+.instabright-tone-up-essence > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 370px;
+  left: 1580px;
+}

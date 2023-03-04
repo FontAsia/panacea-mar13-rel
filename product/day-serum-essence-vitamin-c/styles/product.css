@@ -1,0 +1,49 @@
+.day-serum-essence-vitamin-c > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.day-serum-essence-vitamin-c > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.day-serum-essence-vitamin-c > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.day-serum-essence-vitamin-c > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+/* .day-serum-essence-vitamin-c > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.day-serum-essence-vitamin-c > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+.day-serum-essence-vitamin-c > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 69%;
+  left: 48%;
+} */
+
+/* .day-serum-essence-vitamin-c > .goes-well-with > .discover-product-button-02 {
+  position: absolute;
+  top: 630px;
+  left: 1250px;
+  visibility: hidden;
+}
+
+.day-serum-essence-vitamin-c > .goes-well-with > .discover-product-button-03 {
+  position: absolute;
+  top: 500px;
+  left: 1590px;
+  visibility: hidden;
+} */

@@ -1,0 +1,61 @@
+.anti-bacterial-protection-facial-mist > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-protection-facial-mist > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-protection-facial-mist > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-protection-facial-mist > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-protection-facial-mist > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-protection-facial-mist > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.anti-bacterial-protection-facial-mist > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 900px;
+  left: 930px;
+}
+
+.anti-bacterial-protection-facial-mist > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 780px;
+  left: 1280px;
+}
+
+.anti-bacterial-protection-facial-mist > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 610px;
+  left: 1740px;
+}
+
+.anti-bacterial-protection-facial-mist > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 850px;
+  left: 1100px;
+}
+
+.anti-bacterial-protection-facial-mist > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 640px;
+  left: 1640px;
+}
+

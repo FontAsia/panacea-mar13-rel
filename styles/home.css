@@ -1,0 +1,150 @@
+.home {
+  /* background-image: url("../resources/images/home.jpg");
+  background-size: cover; */
+  background-color: #fbdde5;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+}
+
+.home > .kv-container {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+/* .home > .qr-code-how-to-container {
+  position: fixed;
+  top: 550px;
+  left: 1510px;
+}
+
+.home > .on-screen-how-to-container {
+  position: fixed;
+  top: 50px;
+  left: 1510px;
+} */
+
+.home > .qr-code-container {
+  position: fixed;
+  top: 730px;
+  right: 115px;
+  color: white;
+  border-radius: 20px;
+  padding: 0px;
+  width: 250px;
+  height: 308px;
+  background-color: var(--accent);
+}
+
+.home > .qr-code-container > .qr-code-frame {
+  position: relative;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  top: 10px;
+  left: 10px;
+  width: 230px;
+  height: 230px;
+}
+
+.home > .on-screen-how-to-container > video {
+  position: fixed;
+  top: 40px;
+  right: 77px;
+}
+
+.home > .qr-code-how-to-container-v03 > video {
+  position: fixed;
+  top: 410px;
+  right: 77px;
+}
+
+.home > .qr-code-how-to-container > video {
+  position: fixed;
+  top: 450px;
+  right: 77px;
+}
+
+.home > .on-screen-how-to-container > .start-here-btn-container {
+  position: fixed;
+  top: 330px;
+  right: 80px;
+}
+
+.home > .on-screen-how-to-container > .start-here-btn-container > .start-here-btn {
+  background: var(--accent);
+  padding: 5px 70px;
+  color: var(--secondary);
+  font-family: 'Unilever-SemiBold';
+  font-size: 2.8em;
+  border-radius: 50px;
+  /* border: 5px solid var(--background); */
+}
+.home > .on-screen-how-to-container > .start-here-btn-container > .start-here-btn:active {
+  background-color: var(--accent);
+}
+
+.home > .on-screen-how-to-container > .info {
+  position: fixed;
+  top: 240px;
+  right: 49px;
+  color: var(--accent);
+  font-family: 'Unilever-SemiBold';
+  font-size: 2.7em;
+  text-align: center;
+}
+
+.home > .qr-code-how-to-container > .info {
+  position: fixed;
+  top: 640px;
+  right: 38px;
+  color: var(--accent);
+  font-family: 'Unilever-SemiBold';
+  font-size: 2.7em;
+  text-align: center;
+}
+
+.home > .qr-code-how-to-container-v03 > .info {
+  position: fixed;
+  top: 601px;
+  right: 38px;
+  color: var(--accent);
+  font-family: 'Unilever-SemiBold';
+  font-size: 2.7em;
+  text-align: center;
+}
+
+.home > .qr-code-container > .info {
+  position: relative;
+  left: 29px;
+  top: 5px;
+  font-family: 'Unilever-SemiBold';
+  font-size: 2.7em;
+}
+
+.home > .loader {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 70%;
+}
+
+.home > .loader > p {
+  position: absolute;
+  top: 70%;
+  left: 49%;
+  color: white;
+}
+
+.home .version {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: #ffffff80;
+}

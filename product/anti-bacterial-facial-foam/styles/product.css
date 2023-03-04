@@ -1,0 +1,42 @@
+.anti-bacterial-facial-foam > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-facial-foam > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-facial-foam > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-facial-foam > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-facial-foam > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-facial-foam > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+.anti-bacterial-facial-foam > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 850px;
+  left: 1100px;
+}
+
+.anti-bacterial-facial-foam  > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 670px;
+  left: 1550px;
+}
+

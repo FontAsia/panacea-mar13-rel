@@ -1,0 +1,35 @@
+.bright-serum-facial-foam > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-facial-foam > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-facial-foam > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-facial-foam > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-facial-foam > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-facial-foam > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-facial-foam > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 69%;
+  left: 48%;
+}

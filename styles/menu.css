@@ -1,0 +1,87 @@
+.menu {
+  background-image: url('../resources/menu/menu.jpg');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+/* .menu > .touchpoint {
+  background-color: #FF000080;
+} */
+
+.menu > .touchpoint.whats-new {
+  position: absolute;
+  top: 331;
+  left: 27;
+  width: 747;
+  height: 474;
+  /* background-image: url('../resources/menu/whats-new-bright-brilliance.png'); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  visibility: hidden;
+}
+
+.menu > .touchpoint.whats-trending {
+  position: absolute;
+  top: 331;
+  left: 800;
+  width: 1094;
+  height: 475;
+  background-image: url('../resources/menu/trending-1.png');
+  background-size: cover;
+  visibility: hidden;
+}
+
+.menu > .touchpoint.need {
+  position: absolute;
+  top: 825;
+  left: 27;
+  width: 605;
+  height: 232;
+  background-image: url('../resources/menu/shop-by-need.png');
+  background-size: cover;
+  visibility: hidden;
+}
+
+.menu > .touchpoint.range {
+  position: absolute;
+  top: 825;
+  left: 658;
+  width: 605;
+  height: 232;
+  background-image: url('../resources/menu/shop-by-range.png');
+  background-size: cover;
+  visibility: hidden;
+}
+
+.menu > .touchpoint.format {
+  position: absolute;
+  top: 825;
+  left: 1290;
+  width: 605;
+  height: 232;
+  background-image: url('../resources/menu/shop-by-format.png');
+  background-size: cover;
+  visibility: hidden;
+}
+
+.menu > .qr-code-how-to-container {
+  position: absolute;
+  top: 73;
+  left: 600;
+}
+
+.menu > .on-screen-how-to-container {
+  position: absolute;
+  top: 73;
+  left: 1400;
+}
+
+.menu > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

@@ -1,0 +1,111 @@
+@import url('./common.css');
+@import url('./menu.css');
+@import url('./home.css');
+
+@import url('../category/whats-new-uv-sunscreen-sfp50/styles/style.css');
+@import url('../category/whats-trending-v03/styles/style.css');
+@import url('../category/shop-by-need-v03/styles/style.css');
+@import url('../category/shop-by-need-v03/subcategory/acne-and-oil-control/styles/style.css');
+@import url('../category/shop-by-need-v03/subcategory/bright-glow/styles/style.css');
+@import url('../category/shop-by-need-v03/subcategory/spotless-and-even-tone/styles/style.css');
+@import url('../category/shop-by-need-v03/subcategory/youthful-glow/styles/style.css');
+@import url('../category/shop-by-need-v03/subcategory/glass-skin-and-hydration/styles/style.css');
+@import url('../category/shop-by-need-v03/subcategory/sun-care/styles/style.css');
+@import url('../category/shop-by-range-v03/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/cleanse-as-you-glow/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/hello-glow/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/lets-clay/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/bright-now/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/dewy-skin-goals/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/anti-maskne/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/you-do-youth/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/perfect-bare-skin-look/styles/style.css');
+@import url('../category/shop-by-range-v03/subcategory/glass-skin-claim-it/styles/style.css');
+@import url('../category/shop-by-format-v03/styles/style.css');
+@import url('../category/shop-by-format-v03/subcategory/cleanse/styles/style.css');
+@import url('../category/shop-by-format-v03/subcategory/wash/styles/style.css');
+@import url('../category/shop-by-format-v03/subcategory/tone-and-prep/styles/style.css');
+@import url('../category/shop-by-format-v03/subcategory/care/styles/style.css');
+@import url('../category/shop-by-format-v03/subcategory/protect-and-enhance/styles/style.css');
+
+@import url('./product.css');
+
+/* theme */
+@import url('./theme/whiteBeautyPinkTheme.css');
+@import url('./theme/ageMiracleTheme.css');
+@import url('./theme/whiteBeautyWhiteTheme.css');
+
+/* products */
+@import url('../product/acne-clear-facial-foam/styles/product.css');
+@import url('../product/anti-ageing-expert-bb-cream/styles/product.css');
+@import url('../product/anti-bacterial-cleansing-wipes/styles/product.css');
+@import url('../product/anti-bacterial-facial-foam/styles/product.css');
+@import url('../product/anti-bacterial-facial-scrub/styles/product.css');
+
+@import url('../product/anti-bacterial-protection-facial-mist/styles/product.css');
+@import url('../product/bb-cc-cream/styles/product.css');
+@import url('../product/bb-magic-powder/styles/product.css');
+@import url('../product/cleansing-balm/styles/product.css');
+@import url('../product/daily-whitening-sun-protect-spf50/styles/product.css');
+
+@import url('../product/day-cream/styles/product.css');
+@import url('../product/double-action-serum/styles/product.css');
+@import url('../product/eye-cream/styles/product.css');
+@import url('../product/instabright-glow-up-cream/styles/product.css');
+@import url('../product/instabright-tone-up-cream/styles/product.css');
+
+@import url('../product/instabright-tone-up-essence/styles/product.css');
+@import url('../product/instabright-tone-up-milk-powder/styles/product.css');
+@import url('../product/mineral-clay-clear-solutions/styles/product.css');
+@import url('../product/mineral-clay-pure-white/styles/product.css');
+@import url('../product/mineral-clay-white-beauty/styles/product.css');
+
+@import url('../product/night-cream/styles/product.css');
+@import url('../product/pure-white-facial-foam/styles/product.css');
+@import url('../product/serum-burst-cream/styles/product.css');
+@import url('../product/serum-burst-potion-essence/styles/product.css');
+@import url('../product/super-cream/styles/product.css');
+
+@import url('../product/super-cream-detox/styles/product.css');
+@import url('../product/ultimate-youth-essence/styles/product.css');
+@import url('../product/vitamin-micellar-water-brightening-rose/styles/product.css');
+@import url('../product/vitamin-micellar-water-detoxing-charcoal/styles/product.css');
+@import url('../product/vitamin-micellar-water-nourishing-milk/styles/product.css');
+
+@import url('../product/whip-day-cream/styles/product.css');
+@import url('../product/white-beauty-facial-foam/styles/product.css');
+@import url('../product/uv-bright-sunscreen/styles/product.css');
+@import url('../product/uv-hydrate-sunscreen/styles/product.css');
+@import url('../product/essence-lotion-gentle-exfoliate/styles/product.css');
+
+@import url('../product/moisturizing-face-cream-ceramide/styles/product.css');
+@import url('../product/day-serum-essence-vitamin-c/styles/product.css');
+@import url('../product/night-serum-essence-niacinamide/styles/product.css');
+@import url('../product/aloe-vera-glass-skin-glow-toner/styles/product.css');
+@import url('../product/aloe-vera-jelly-cleanser/styles/product.css');
+
+@import url('../product/aloe-vera-jelly-moisturizer/styles/product.css');
+@import url('../product/bright-triple-glow-serum/styles/product.css');
+@import url('../product/bright-mineral-clay-cleanser/styles/product.css');
+@import url('../product/bright-perfect-potion-essence/styles/product.css');
+@import url('../product/bright-serum-day-cream/styles/product.css');
+
+@import url('../product/bright-serum-facial-foam/styles/product.css');
+@import url('../product/aloe-vera-hyaluron-serum/styles/product.css');
+@import url('../product/orange-hyaluron-serum/styles/product.css');
+@import url('../product/watermelon-hyaluron-serum/styles/product.css');
+@import url('../product/orange-nectar-glass-skin-glow-tower/styles/product.css');
+
+@import url('../product/orange-nectar-jelly-cleanser/styles/product.css');
+@import url('../product/orange-nectar-jelly-moisturizer/styles/product.css');
+@import url('../product/watermelon-glass-skin-glow-tower/styles/product.css');
+@import url('../product/watermelon-jelly-moisturizer/styles/product.css');
+@import url('../product/tomato-vitamin-sheet-mask/styles/product.css');
+
+@import url('../product/avocado-watermelon-sheet-mask/styles/product.css');
+@import url('../product/pineapple-vitamin-sheet-mask/styles/product.css');
+@import url('../product/bright-serum-day-cream-detox/styles/product.css');
+@import url('../product/bright-sunscreen-spf50/styles/product.css');
+@import url('../product/pure-bright-clay-scrub/styles/product.css');
+
+@import url('../product/pure-bright-facial-foam/styles/product.css');

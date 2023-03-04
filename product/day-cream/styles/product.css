@@ -1,0 +1,54 @@
+.day-cream > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.day-cream > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.day-cream > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.day-cream > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.day-cream > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.day-cream > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.day-cream > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 870px;
+  left: 630px;
+}
+
+.day-cream > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 830px;
+  left: 880px;
+}
+
+.day-cream > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 750px;
+  left: 1390px;
+}
+
+.day-cream > .goes-well-with-section > .discover-product-button-04 {
+  position: absolute;
+  top: 690px;
+  left: 1770px;
+}

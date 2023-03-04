@@ -1,0 +1,47 @@
+.aloe-vera-jelly-cleanser > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-jelly-cleanser > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-jelly-cleanser > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-jelly-cleanser > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-jelly-cleanser > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-jelly-cleanser > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-jelly-cleanser > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 28%;
+  left: 42%;
+}
+
+.aloe-vera-jelly-cleanser > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 34%;
+  left: 67%;
+}
+
+.aloe-vera-jelly-cleanser > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 70%;
+  left: 51%;
+}

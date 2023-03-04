@@ -1,0 +1,35 @@
+.bright-perfect-potion-essence > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.bright-perfect-potion-essence > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.bright-perfect-potion-essence > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.bright-perfect-potion-essence > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.bright-perfect-potion-essence > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.bright-perfect-potion-essence > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+.bright-perfect-potion-essence > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 48%;
+  left: 51%;
+}

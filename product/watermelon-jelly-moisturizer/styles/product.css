@@ -1,0 +1,40 @@
+.watermelon-jelly-moisturizer > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.watermelon-jelly-moisturizer > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.watermelon-jelly-moisturizer > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.watermelon-jelly-moisturizer > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.watermelon-jelly-moisturizer > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.watermelon-jelly-moisturizer > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+.watermelon-jelly-moisturizer > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 70%;
+  left: 29%;
+}
+
+.watermelon-jelly-moisturizer > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 33%;
+  left: 48%;
+}

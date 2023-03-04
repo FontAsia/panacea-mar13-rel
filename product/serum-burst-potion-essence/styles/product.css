@@ -1,0 +1,36 @@
+.serum-burst-potion-essence > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.serum-burst-potion-essence > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.serum-burst-potion-essence > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.serum-burst-potion-essence > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.serum-burst-potion-essence > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.serum-burst-potion-essence > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+.serum-burst-potion-essence > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 720px;
+  left: 1400px;
+}
+

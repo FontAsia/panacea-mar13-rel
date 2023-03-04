@@ -1,0 +1,48 @@
+.instabright-tone-up-cream > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.instabright-tone-up-cream > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.instabright-tone-up-cream > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.instabright-tone-up-cream > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.instabright-tone-up-cream > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.instabright-tone-up-cream > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+/* .instabright-tone-up-cream > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 770px;
+  left: 820px;
+} */
+
+.instabright-tone-up-cream > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 560px;
+  left: 1240px;
+}
+
+/* .instabright-tone-up-cream > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 450px;
+  left: 1600px;
+}
+ */

@@ -1,0 +1,35 @@
+.bright-serum-day-cream-detox > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-day-cream-detox > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-day-cream-detox > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-day-cream-detox > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-day-cream-detox > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-day-cream-detox > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+.bright-serum-day-cream-detox > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 28%;
+  left: 72%;
+}

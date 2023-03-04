@@ -1,0 +1,50 @@
+main > .need-bright-glow-v03 {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .need-bright-glow-v03 > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .need-bright-glow-v03 > .touchpoint-01 {
+  position: absolute;
+  left: 205;
+  top: 193;
+}
+
+main > .need-bright-glow-v03 > .touchpoint-02 {
+  position: absolute;
+  left: 507;
+  top: 193;
+}
+main > .need-bright-glow-v03 > .touchpoint-03 {
+  position: absolute;
+  left: 1140;
+  top: 193;
+}
+
+main > .need-bright-glow-v03 > .touchpoint-04 {
+  position: absolute;
+  left: 205;
+  top: 645;
+}
+
+main > .need-bright-glow-v03 > .touchpoint-05 {
+  position: absolute;
+  left: 507;
+  top: 645;
+}
+
+main > .need-bright-glow-v03 > .touchpoint-06 {
+  position: absolute;
+  left: 1421;
+  top: 327;
+}

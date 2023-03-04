@@ -1,0 +1,42 @@
+.daily-whitening-sun-protect-spf50 > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.daily-whitening-sun-protect-spf50 > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.daily-whitening-sun-protect-spf50 > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.daily-whitening-sun-protect-spf50 > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.daily-whitening-sun-protect-spf50 > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.daily-whitening-sun-protect-spf50 > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+.daily-whitening-sun-protect-spf50 > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 750px;
+  left: 1100px;
+}
+
+.daily-whitening-sun-protect-spf50 > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 600px;
+  left: 1450px;
+}
+

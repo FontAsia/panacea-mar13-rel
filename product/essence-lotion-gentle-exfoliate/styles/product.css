@@ -1,0 +1,49 @@
+.essence-lotion-gentle-exfoliate > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.essence-lotion-gentle-exfoliate > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.essence-lotion-gentle-exfoliate > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.essence-lotion-gentle-exfoliate > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+/* 
+.essence-lotion-gentle-exfoliate > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.essence-lotion-gentle-exfoliate > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+} */
+
+/* .essence-lotion-gentle-exfoliate > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 69%;
+  left: 48%;
+} */
+
+/* .essence-lotion-gentle-exfoliate > .goes-well-with > .discover-product-button-02 {
+  position: absolute;
+  top: 630px;
+  left: 1250px;
+  visibility: hidden;
+}
+
+.essence-lotion-gentle-exfoliate > .goes-well-with > .discover-product-button-03 {
+  position: absolute;
+  top: 500px;
+  left: 1590px;
+  visibility: hidden;
+} */

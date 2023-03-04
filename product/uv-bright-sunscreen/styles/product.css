@@ -1,0 +1,35 @@
+.uv-bright-sunscreen > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.uv-bright-sunscreen > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.uv-bright-sunscreen > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.uv-bright-sunscreen > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.uv-bright-sunscreen > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.uv-bright-sunscreen > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+.uv-bright-sunscreen > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 69%;
+  left: 81%;
+}

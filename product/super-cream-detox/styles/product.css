@@ -1,0 +1,41 @@
+.super-cream-detox > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.super-cream-detox > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.super-cream-detox > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.super-cream-detox > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.super-cream-detox > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.super-cream-detox > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+.super-cream-detox > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 720px;
+  left: 1030px;
+}
+
+.super-cream-detox > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 590px;
+  left: 1350px;
+}

@@ -1,0 +1,61 @@
+.mineral-clay-pure-white > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.mineral-clay-pure-white > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.mineral-clay-pure-white > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.mineral-clay-pure-white > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.mineral-clay-pure-white > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.mineral-clay-pure-white > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.mineral-clay-pure-white > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 810px;
+  left: 740px;
+}
+
+.mineral-clay-pure-white > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 720px;
+  left: 980px;
+}
+
+.mineral-clay-pure-white > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 630px;
+  left: 1200px;
+}
+
+.mineral-clay-pure-white > .goes-well-with-section > .discover-product-button-04 {
+  position: absolute;
+  top: 530px;
+  left: 1420px;
+}
+
+.mineral-clay-pure-white > .goes-well-with-section > .discover-product-button-05 {
+  position: absolute;
+  top: 420px;
+  left: 1660px;
+}
+

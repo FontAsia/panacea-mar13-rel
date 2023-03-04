@@ -1,0 +1,53 @@
+.ultimate-youth-essence > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.ultimate-youth-essence > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.ultimate-youth-essence > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.ultimate-youth-essence > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.ultimate-youth-essence > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.ultimate-youth-essence > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+.ultimate-youth-essence > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 850px;
+  left: 670px;
+}
+
+.ultimate-youth-essence > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 630px;
+  left: 950px;
+}
+
+.ultimate-youth-essence > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 780px;
+  left: 1420px;
+}
+
+.ultimate-youth-essence > .goes-well-with-section > .discover-product-button-04 {
+  position: absolute;
+  top: 530px;
+  left: 1710px;
+}

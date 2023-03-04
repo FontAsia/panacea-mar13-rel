@@ -1,0 +1,65 @@
+.aloe-vera-glass-skin-glow-toner > .home-section {
+  background-image: url('../images/home-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-glass-skin-glow-toner > .about-the-product-section {
+  background-image: url('../images/about-the-product-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-glass-skin-glow-toner > .key-ingredients-section {
+  background-image: url('../images/key-ingredients-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-glass-skin-glow-toner > .how-to-use-section {
+  background-image: url('../images/how-to-use-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-glass-skin-glow-toner > .ratings-and-reviews-section {
+  background-image: url('../images/ratings-and-reviews-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section {
+  background-image: url('../images/goes-well-with-section.jpg');
+  background-size: cover;
+}
+
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 72%;
+  left: 23%;
+}
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 65%;
+  left: 33%;
+}
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 66%;
+  left: 45%;
+}
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-04 {
+  position: absolute;
+  top: 57%;
+  left: 61%;
+}
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-05 {
+  position: absolute;
+  top: 62%;
+  left: 71%;
+}
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-06 {
+  position: absolute;
+  top: 58%;
+  left: 80%;
+}
+.aloe-vera-glass-skin-glow-toner > .goes-well-with-section > .discover-product-button-07 {
+  position: absolute;
+  top: 53%;
+  left: 90%;
+}

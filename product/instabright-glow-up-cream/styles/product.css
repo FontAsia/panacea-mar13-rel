@@ -1,0 +1,66 @@
+.instabright-glow-up-cream > .home-section {
+  background-image: url("../images/home-section.jpg");
+  background-size: cover;
+}
+
+.instabright-glow-up-cream > .about-the-product-section {
+  background-image: url("../images/about-the-product-section.jpg");
+  background-size: cover;
+}
+
+.instabright-glow-up-cream > .key-ingredients-section {
+  background-image: url("../images/key-ingredients-section.jpg");
+  background-size: cover;
+}
+
+.instabright-glow-up-cream > .how-to-use-section {
+  background-image: url("../images/how-to-use-section.jpg");
+  background-size: cover;
+}
+
+.instabright-glow-up-cream > .ratings-and-reviews-section {
+  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-size: cover;
+}
+
+.instabright-glow-up-cream > .goes-well-with-section {
+  background-image: url("../images/goes-well-with-section.jpg");
+  background-size: cover;
+}
+
+
+.instabright-glow-up-cream > .goes-well-with-section > .discover-product-button-01 {
+  position: absolute;
+  top: 820px;
+  left: 640px;
+}
+
+.instabright-glow-up-cream > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 730px;
+  left: 850px;
+}
+
+.instabright-glow-up-cream > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 650px;
+  left: 1040px;
+}
+
+.instabright-glow-up-cream > .goes-well-with-section > .discover-product-button-04 {
+  position: absolute;
+  top: 570px;
+  left: 1240px;
+}
+
+.instabright-glow-up-cream > .goes-well-with-section > .discover-product-button-05 {
+  position: absolute;
+  top: 460px;
+  left: 1490px;
+}
+
+.instabright-glow-up-cream > .goes-well-with-section > .discover-product-button-06 {
+  position: absolute;
+  top: 340px;
+  left: 1780px;
+}
