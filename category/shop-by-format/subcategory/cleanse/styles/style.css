@@ -1,0 +1,33 @@
+main > .format-cleanse {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .format-cleanse > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .format-cleanse > .touchpoint-01 {
+  position: absolute;
+  left: 360;
+  top: 452;
+}
+
+main > .format-cleanse > .touchpoint-02 {
+  position: absolute;
+  left: 880;
+  top: 255;
+}
+
+main > .format-cleanse > .touchpoint-03 {
+  position: absolute;
+  left: 1326;
+  top: 255;
+}

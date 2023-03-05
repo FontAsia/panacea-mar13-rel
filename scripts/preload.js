@@ -389,6 +389,9 @@ export class Preload {
     { id: '197', src: `${Config.podURL}/resources/menu/whats-new.png` },
     { id: '198', src: `${Config.podURL}/resources/images/home.jpg` },
     { id: '199', src: `${Config.podURL}/resources/menu/menu.jpg` },
+    { id: '200', src: `${Config.podURL}/resources/videos/mobile-small.jpg` },
+    { id: '201', src: `${Config.podURL}/resources/videos/on-screen-small.jpg` },
+    { id: '202', src: `${Config.podURL}/resources/videos/phonenix-tvc.jpg` },
   ];
 
   static resources_manifest_2 = [
@@ -649,29 +652,29 @@ export class Preload {
     { id: '192', src: `${Config.podURL}/product/white-beauty-facial-foam/images/ratings-and-reviews-section.jpg` },
   ];
 
-  // static load(onComplete, onProgress) {
-  //   console.log('loading...');
-  //   var queue1 = new createjs.LoadQueue();
-
-  //   queue1.on('complete', () => {
-  //     onComplete();
-  //     var queue2 = new createjs.LoadQueue();
-  //     queue2.on('complete', () => console.log('next batch preload done'));
-  //     queue2.loadManifest(Preload.resources_manifest_2);
-  //   });
-  //   queue1.on('progress', (event) => onProgress(event.loaded));
-
-  //   queue1.loadManifest(Preload.resources_manifest_1);
-  // }
-
   static load(onComplete, onProgress) {
     console.log('loading...');
+    var queue1 = new createjs.LoadQueue();
 
-    var queue2 = new createjs.LoadQueue();
-    queue2.on('complete', () => {
-      console.log('load complete');
+    queue1.on('complete', () => {
       onComplete();
+      var queue2 = new createjs.LoadQueue();
+      queue2.on('complete', () => console.log('next batch preload done'));
+      queue2.loadManifest(Preload.resources_manifest_2);
     });
-    queue2.loadManifest(Preload.resources_manifest_2);
+    queue1.on('progress', (event) => onProgress(event.loaded));
+
+    queue1.loadManifest(Preload.resources_manifest_1);
   }
+
+  // static load(onComplete, onProgress) {
+  //   console.log('loading...');
+
+  //   var queue2 = new createjs.LoadQueue();
+  //   queue2.on('complete', () => {
+  //     console.log('load complete');
+  //     onComplete();
+  //   });
+  //   queue2.loadManifest(Preload.resources_manifest_2);
+  // }
 }

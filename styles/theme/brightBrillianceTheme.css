@@ -1,0 +1,79 @@
+.bright-brilliance-theme > .logo {
+  background-image: url('../../resources/images/common/bright-brilliance-theme/ponds-logo.png');
+}
+
+.bright-brilliance-theme > .navigation {
+  position: fixed;
+  top: 15%;
+  left: 0;
+  width: 18%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: #ffffff;
+  padding-top: 0.4em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+}
+
+.bright-brilliance-theme > .navigation > .navigation-container {
+  background-color: #d4c3e6;
+  background-size: contain;
+  background-repeat: round;
+  width: 100%;
+  height: 0;
+  padding-top: 50.59%;
+  margin-bottom: 0.4em;
+}
+
+.bright-brilliance-theme > .navigation > .navigation-container#about-the-product {
+  background-image: url('../../resources/images/common/bright-brilliance-theme/about-the-product.png');
+}
+
+.bright-brilliance-theme > .navigation > .navigation-container#key-ingredients {
+  background-image: url('../../resources/images/common/bright-brilliance-theme/key-ingredients.png');
+}
+
+.bright-brilliance-theme > .navigation > .navigation-container#how-to-use {
+  background-image: url('../../resources/images/common/bright-brilliance-theme/how-to-use.png');
+}
+
+.bright-brilliance-theme > .navigation > .navigation-container#ratings-and-reviews {
+  background-image: url('../../resources/images/common/bright-brilliance-theme/ratings-and-reviews.png');
+}
+
+.bright-brilliance-theme > .navigation > .navigation-container#goes-well-with {
+  background-image: url('../../resources/images/common/bright-brilliance-theme/goes-well-with.png');
+}
+
+.bright-brilliance-theme .pulse-button {
+  width: 90px;
+  height: 90px;
+  font-size: 1em;
+  font-family: 'Unilever-Regular';
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 90px;
+  letter-spacing: -1px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50%;
+  background: #e22527;
+  box-shadow: 0 0 0 0 #e2252780;
+  animation: bright-brilliance-pulse 1.5s infinite;
+}
+
+@keyframes bright-brilliance-theme-pulse {
+  0% {
+    /* transform: scale(.9); */
+    /* box-shadow: 0 0 0 0 #f2076600; */
+  }
+  70% {
+    /* transform: scale(1); */
+    box-shadow: 0 0 0 30px #e2252780;
+  }
+  100% {
+    /* transform: scale(.9); */
+    box-shadow: 0 0 0 0 #e2252700;
+  }
+}

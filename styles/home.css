@@ -56,12 +56,6 @@
   right: 77px;
 }
 
-.home > .qr-code-how-to-container-v03 > video {
-  position: fixed;
-  top: 410px;
-  right: 77px;
-}
-
 .home > .qr-code-how-to-container > video {
   position: fixed;
   top: 450px;
@@ -100,16 +94,6 @@
 .home > .qr-code-how-to-container > .info {
   position: fixed;
   top: 640px;
-  right: 38px;
-  color: var(--accent);
-  font-family: 'Unilever-SemiBold';
-  font-size: 2.7em;
-  text-align: center;
-}
-
-.home > .qr-code-how-to-container-v03 > .info {
-  position: fixed;
-  top: 601px;
   right: 38px;
   color: var(--accent);
   font-family: 'Unilever-SemiBold';

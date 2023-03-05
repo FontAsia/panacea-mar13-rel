@@ -1,0 +1,51 @@
+main > .format-tone-and-prep {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .format-tone-and-prep > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .format-tone-and-prep > .touchpoint-01 {
+  position: absolute;
+  left: 68;
+  top: 334;
+}
+
+main > .format-tone-and-prep > .touchpoint-02 {
+  position: absolute;
+  left: 399;
+  top: 334;
+}
+
+main > .format-tone-and-prep > .touchpoint-03 {
+  position: absolute;
+  left: 738;
+  top: 334;
+}
+
+main > .format-tone-and-prep > .touchpoint-04 {
+  position: absolute;
+  left: 1032;
+  top: 334;
+}
+
+main > .format-tone-and-prep > .touchpoint-05 {
+  position: absolute;
+  left: 1320;
+  top: 334;
+}
+
+main > .format-tone-and-prep > .touchpoint-06 {
+  position: absolute;
+  left: 1609;
+  top: 334;
+}

@@ -30,12 +30,16 @@
 
 .aloe-vera-jelly-moisturizer > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 70%;
-  left: 29%;
+  top: 710px;
+  left: 860px;
 }
-
 .aloe-vera-jelly-moisturizer > .goes-well-with-section > .discover-product-button-02 {
   position: absolute;
-  top: 33%;
-  left: 48%;
+  top: 540px;
+  left: 1230px;
+}
+.aloe-vera-jelly-moisturizer > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 410px;
+  left: 1550px;
 }

@@ -1,0 +1,62 @@
+main > .need-spotless-and-even-tone {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .need-spotless-and-even-tone > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-01 {
+  position: absolute;
+  left: 306;
+  top: 201;
+}
+main > .need-spotless-and-even-tone > .touchpoint-02 {
+  position: absolute;
+  left: 645;
+  top: 201;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-03 {
+  position: absolute;
+  left: 976;
+  top: 201;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-04 {
+  position: absolute;
+  left: 1307;
+  top: 201;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-05 {
+  position: absolute;
+  left: 306;
+  top: 694;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-06 {
+  position: absolute;
+  left: 645;
+  top: 622;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-07 {
+  position: absolute;
+  left: 976;
+  top: 622;
+}
+
+main > .need-spotless-and-even-tone > .touchpoint-08 {
+  position: absolute;
+  left: 1307;
+  top: 622;
+}

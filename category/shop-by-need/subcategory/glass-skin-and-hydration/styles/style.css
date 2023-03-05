@@ -1,0 +1,78 @@
+main > .need-glass-skin-and-hydration {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .need-glass-skin-and-hydration > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .need-glass-skin-and-hydration > .touchpoint-01 {
+  position: absolute;
+  left: 170;
+  top: 212;
+}
+
+main > .need-glass-skin-and-hydration > .touchpoint-02 {
+  position: absolute;
+  left: 422;
+  top: 212;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-03 {
+  position: absolute;
+  left: 673;
+  top: 212;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-04 {
+  position: absolute;
+  left: 930;
+  top: 212;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-05 {
+  position: absolute;
+  left: 1217;
+  top: 212;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-06 {
+  position: absolute;
+  left: 1500;
+  top: 212;
+}
+
+main > .need-glass-skin-and-hydration > .touchpoint-07 {
+  position: absolute;
+  left: 61;
+  top: 656;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-08 {
+  position: absolute;
+  left: 362;
+  top: 656;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-09 {
+  position: absolute;
+  left: 659;
+  top: 656;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-10 {
+  position: absolute;
+  left: 958;
+  top: 656;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-11 {
+  position: absolute;
+  left: 1261;
+  top: 656;
+}
+main > .need-glass-skin-and-hydration > .touchpoint-12 {
+  position: absolute;
+  left: 1563;
+  top: 656;
+}

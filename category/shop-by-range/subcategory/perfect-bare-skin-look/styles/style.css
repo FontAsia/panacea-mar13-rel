@@ -1,0 +1,50 @@
+main > .range-perfect-bare-skin-look {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .range-perfect-bare-skin-look > .products {
+  background-image: url('../images/products.png');
+  background-size: cover;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  visibility: hidden;
+}
+
+main > .range-perfect-bare-skin-look > .back-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .range-perfect-bare-skin-look > .products > .discover-product-button-01 {
+  position: absolute;
+  top: 720;
+  left: 570;
+}
+
+main > .range-perfect-bare-skin-look > .products > .discover-product-button-02 {
+  position: absolute;
+  top: 650;
+  left: 860;
+}
+
+main > .range-perfect-bare-skin-look > .products > .discover-product-button-03 {
+  position: absolute;
+  top: 567;
+  left: 1205;
+}
+
+main > .range-perfect-bare-skin-look > .products > .discover-product-button-04 {
+  position: absolute;
+  top: 478;
+  left: 1569;
+}

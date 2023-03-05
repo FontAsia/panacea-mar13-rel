@@ -1,0 +1,44 @@
+main > .range-lets-clay {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .range-lets-clay > .products {
+  background-image: url('../images/products.png');
+  background-size: cover;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  visibility: hidden;
+}
+
+main > .range-lets-clay > .back-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .range-lets-clay > .products > .discover-product-button-01 {
+  position: absolute;
+  top: 890;
+  left: 650;
+}
+
+main > .range-lets-clay > .products > .discover-product-button-02 {
+  position: absolute;
+  top: 770;
+  left: 1140;
+}
+
+main > .range-lets-clay > .products > .discover-product-button-03 {
+  position: absolute;
+  top: 660;
+  left: 1600;
+}

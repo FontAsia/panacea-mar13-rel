@@ -1,0 +1,51 @@
+main > .need-acne-and-oil-control {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .need-acne-and-oil-control > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .need-acne-and-oil-control > .touchpoint-01 {
+  position: absolute;
+  left: 435;
+  top: 198;
+}
+
+main > .need-acne-and-oil-control > .touchpoint-02 {
+  position: absolute;
+  left: 886;
+  top: 198;
+}
+
+main > .need-acne-and-oil-control > .touchpoint-03 {
+  position: absolute;
+  left: 1294;
+  top: 198;
+}
+
+main > .need-acne-and-oil-control > .touchpoint-04 {
+  position: absolute;
+  left: 306;
+  top: 619;
+}
+
+main > .need-acne-and-oil-control > .touchpoint-05 {
+  position: absolute;
+  left: 799;
+  top: 619;
+}
+
+main > .need-acne-and-oil-control > .touchpoint-06 {
+  position: absolute;
+  left: 1284;
+  top: 619;
+}

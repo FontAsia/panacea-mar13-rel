@@ -63,7 +63,7 @@ export class Category {
 
     $(`.back-to-home-container > img`).on(`click`, (event) => {
       $(`.back-to-home-container > img`).unbind(`click`);
-      App.redirectTo(`${Config.podURL}/menu-${Config.menuVersion}/index.html`);
+      App.redirectTo(`${Config.podURL}/menu/index.html`);
     });
 
     $(`main > .category > .touchpoint`).on(`click`, (event) => {

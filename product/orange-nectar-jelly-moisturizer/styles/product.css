@@ -30,12 +30,16 @@
 
 .orange-nectar-jelly-moisturizer > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 70%;
-  left: 29%;
+  top: 710px;
+  left: 870px;
 }
-
 .orange-nectar-jelly-moisturizer > .goes-well-with-section > .discover-product-button-02 {
   position: absolute;
-  top: 33%;
-  left: 48%;
+  top: 550px;
+  left: 1200px;
+}
+.orange-nectar-jelly-moisturizer > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 400px;
+  left: 1520px;
 }

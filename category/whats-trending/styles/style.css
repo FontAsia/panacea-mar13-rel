@@ -1,0 +1,62 @@
+main > .whats-trending {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .whats-trending > .products {
+  background-image: url('../images/products.png');
+  background-size: cover;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  visibility: hidden;
+}
+
+main > .whats-trending > .back-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .whats-trending > .products > .discover-product-button-01 {
+  position: absolute;
+  top: 860;
+  left: 440;
+}
+
+main > .whats-trending > .products > .discover-product-button-02 {
+  position: absolute;
+  top: 850;
+  left: 740;
+}
+
+main > .whats-trending > .products > .discover-product-button-03 {
+  position: absolute;
+  top: 670;
+  left: 1020;
+}
+
+main > .whats-trending > .products > .discover-product-button-04 {
+  position: absolute;
+  top: 640;
+  left: 1320;
+}
+
+main > .whats-trending > .products > .discover-product-button-05 {
+  position: absolute;
+  top: 500;
+  left: 1520;
+}
+
+main > .whats-trending > .products > .discover-product-button-06 {
+  position: absolute;
+  top: 490;
+  left: 1790;
+}

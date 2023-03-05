@@ -1,0 +1,75 @@
+main > .format-wash {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .format-wash > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .format-wash > .touchpoint-01 {
+  position: absolute;
+  left: 83;
+  top: 244;
+}
+
+main > .format-wash > .touchpoint-02 {
+  position: absolute;
+  left: 373;
+  top: 244;
+}
+
+main > .format-wash > .touchpoint-03 {
+  position: absolute;
+  left: 702;
+  top: 244;
+}
+
+main > .format-wash > .touchpoint-04 {
+  position: absolute;
+  left: 989;
+  top: 244;
+}
+
+main > .format-wash > .touchpoint-05 {
+  position: absolute;
+  left: 1278;
+  top: 244;
+}
+
+main > .format-wash > .touchpoint-06 {
+  position: absolute;
+  left: 1567;
+  top: 244;
+}
+
+main > .format-wash > .touchpoint-07 {
+  position: absolute;
+  left: 235;
+  top: 649;
+}
+
+main > .format-wash > .touchpoint-08 {
+  position: absolute;
+  left: 529;
+  top: 649;
+}
+
+main > .format-wash > .touchpoint-09 {
+  position: absolute;
+  left: 820;
+  top: 649;
+}
+
+main > .format-wash > .touchpoint-10 {
+  position: absolute;
+  left: 1237;
+  top: 649;
+}

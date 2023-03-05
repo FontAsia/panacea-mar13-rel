@@ -1,58 +1,46 @@
 .cleansing-balm > .home-section {
-  background-image: url("../images/home-section.jpg");
+  background-image: url('../images/home-section.jpg');
   background-size: cover;
 }
 
 .cleansing-balm > .about-the-product-section {
-  background-image: url("../images/about-the-product-section.jpg");
+  background-image: url('../images/about-the-product-section.jpg');
   background-size: cover;
 }
 
 .cleansing-balm > .key-ingredients-section {
-  background-image: url("../images/key-ingredients-section.jpg");
+  background-image: url('../images/key-ingredients-section.jpg');
   background-size: cover;
 }
 
 .cleansing-balm > .how-to-use-section {
-  background-image: url("../images/how-to-use-section.jpg");
+  background-image: url('../images/how-to-use-section.jpg');
   background-size: cover;
 }
 
 .cleansing-balm > .ratings-and-reviews-section {
-  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-image: url('../images/ratings-and-reviews-section.jpg');
   background-size: cover;
 }
 
 .cleansing-balm > .goes-well-with-section {
-  background-image: url("../images/goes-well-with-section.jpg");
+  background-image: url('../images/goes-well-with-section.jpg');
   background-size: cover;
 }
 
 .cleansing-balm > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 700px;
-  left: 760px;
+  top: 802px;
+  left: 874px;
 }
 .cleansing-balm > .goes-well-with-section > .discover-product-button-02 {
   position: absolute;
-  top: 520px;
-  left: 1210px;
+  top: 624px;
+  left: 1263px;
 }
 
 .cleansing-balm > .goes-well-with-section > .discover-product-button-03 {
   position: absolute;
-  top: 320px;
-  left: 1700px;
-}
-
-.cleansing-balm > .goes-well-with-section > .discover-product-button-04 {
-  position: absolute;
-  top: 760px;
-  left: 1050px;
-}
-
-.cleansing-balm > .goes-well-with-section > .discover-product-button-05 {
-  position: absolute;
-  top: 580px;
-  left: 1520px;
+  top: 428px;
+  left: 1682px;
 }

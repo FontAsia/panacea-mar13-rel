@@ -1,0 +1,36 @@
+main > .whats-new {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .whats-new > .products {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  visibility: hidden;
+}
+
+main > .whats-new > .back-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .whats-new > .products > .discover-product-button-01 {
+  position: absolute;
+  top: 870;
+  left: 1400;
+}
+
+main > .whats-new > .products > .discover-product-button-02 {
+  position: absolute;
+  top: 700;
+  left: 1780;
+}

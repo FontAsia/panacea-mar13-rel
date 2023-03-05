@@ -30,6 +30,12 @@
 
 .bright-serum-facial-foam > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 69%;
-  left: 48%;
+  top: 758px;
+  left: 760px;
+}
+
+.bright-serum-facial-foam > .goes-well-with-section > .discover-product-button-02 {
+  position: absolute;
+  top: 410px;
+  left: 1690px;
 }

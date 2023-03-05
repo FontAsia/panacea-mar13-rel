@@ -69,7 +69,7 @@ export class WhatsTrending {
 
     $('.back-container > img').on('click', (event) => {
       WhatsTrending.unbindEvents();
-      App.redirectTo(`${Config.podURL}/menu-${Config.menuVersion}/index.html`);
+      App.redirectTo(`${Config.podURL}/menu/index.html`);
     });
   }
 }

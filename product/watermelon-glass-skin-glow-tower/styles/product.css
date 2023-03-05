@@ -27,44 +27,13 @@
   background-image: url('../images/goes-well-with-section.jpg');
   background-size: cover;
 }
-
-/* .watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-01 {
+.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 72%;
-  left: 23%;
-} */
+  top: 580px;
+  left: 1140px;
+}
 .watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-02 {
   position: absolute;
-  top: 65%;
-  left: 33%;
-}
-.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-03 {
-  position: absolute;
-  top: 66%;
-  left: 45%;
-}
-.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-04 {
-  position: absolute;
-  top: 62%;
-  left: 53%;
-}
-.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-05 {
-  position: absolute;
-  top: 57%;
-  left: 61%;
-}
-.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-06 {
-  position: absolute;
-  top: 62%;
-  left: 71%;
-}
-.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-07 {
-  position: absolute;
-  top: 58%;
-  left: 80%;
-}
-.watermelon-glass-skin-glow-tower > .goes-well-with-section > .discover-product-button-08 {
-  position: absolute;
-  top: 53%;
-  left: 90%;
+  top: 430px;
+  left: 1440px;
 }

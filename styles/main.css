@@ -2,31 +2,31 @@
 @import url('./menu.css');
 @import url('./home.css');
 
-@import url('../category/whats-new-uv-sunscreen-sfp50/styles/style.css');
-@import url('../category/whats-trending-v03/styles/style.css');
-@import url('../category/shop-by-need-v03/styles/style.css');
-@import url('../category/shop-by-need-v03/subcategory/acne-and-oil-control/styles/style.css');
-@import url('../category/shop-by-need-v03/subcategory/bright-glow/styles/style.css');
-@import url('../category/shop-by-need-v03/subcategory/spotless-and-even-tone/styles/style.css');
-@import url('../category/shop-by-need-v03/subcategory/youthful-glow/styles/style.css');
-@import url('../category/shop-by-need-v03/subcategory/glass-skin-and-hydration/styles/style.css');
-@import url('../category/shop-by-need-v03/subcategory/sun-care/styles/style.css');
-@import url('../category/shop-by-range-v03/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/cleanse-as-you-glow/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/hello-glow/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/lets-clay/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/bright-now/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/dewy-skin-goals/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/anti-maskne/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/you-do-youth/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/perfect-bare-skin-look/styles/style.css');
-@import url('../category/shop-by-range-v03/subcategory/glass-skin-claim-it/styles/style.css');
-@import url('../category/shop-by-format-v03/styles/style.css');
-@import url('../category/shop-by-format-v03/subcategory/cleanse/styles/style.css');
-@import url('../category/shop-by-format-v03/subcategory/wash/styles/style.css');
-@import url('../category/shop-by-format-v03/subcategory/tone-and-prep/styles/style.css');
-@import url('../category/shop-by-format-v03/subcategory/care/styles/style.css');
-@import url('../category/shop-by-format-v03/subcategory/protect-and-enhance/styles/style.css');
+@import url('../category/whats-new/styles/style.css');
+@import url('../category/whats-trending/styles/style.css');
+@import url('../category/shop-by-need/styles/style.css');
+@import url('../category/shop-by-need/subcategory/acne-and-oil-control/styles/style.css');
+@import url('../category/shop-by-need/subcategory/bright-glow/styles/style.css');
+@import url('../category/shop-by-need/subcategory/spotless-and-even-tone/styles/style.css');
+@import url('../category/shop-by-need/subcategory/youthful-glow/styles/style.css');
+@import url('../category/shop-by-need/subcategory/glass-skin-and-hydration/styles/style.css');
+@import url('../category/shop-by-need/subcategory/sun-care/styles/style.css');
+@import url('../category/shop-by-range/styles/style.css');
+@import url('../category/shop-by-range/subcategory/cleanse-as-you-glow/styles/style.css');
+@import url('../category/shop-by-range/subcategory/hello-glow/styles/style.css');
+@import url('../category/shop-by-range/subcategory/lets-clay/styles/style.css');
+@import url('../category/shop-by-range/subcategory/bright-now/styles/style.css');
+@import url('../category/shop-by-range/subcategory/dewy-skin-goals/styles/style.css');
+@import url('../category/shop-by-range/subcategory/anti-maskne/styles/style.css');
+@import url('../category/shop-by-range/subcategory/you-do-youth/styles/style.css');
+@import url('../category/shop-by-range/subcategory/perfect-bare-skin-look/styles/style.css');
+@import url('../category/shop-by-range/subcategory/glass-skin-claim-it/styles/style.css');
+@import url('../category/shop-by-format/styles/style.css');
+@import url('../category/shop-by-format/subcategory/cleanse/styles/style.css');
+@import url('../category/shop-by-format/subcategory/wash/styles/style.css');
+@import url('../category/shop-by-format/subcategory/tone-and-prep/styles/style.css');
+@import url('../category/shop-by-format/subcategory/care/styles/style.css');
+@import url('../category/shop-by-format/subcategory/protect-and-enhance/styles/style.css');
 
 @import url('./product.css');
 
@@ -34,13 +34,13 @@
 @import url('./theme/whiteBeautyPinkTheme.css');
 @import url('./theme/ageMiracleTheme.css');
 @import url('./theme/whiteBeautyWhiteTheme.css');
+@import url('./theme/brightBrillianceTheme.css');
 
 /* products */
 @import url('../product/acne-clear-facial-foam/styles/product.css');
 @import url('../product/anti-ageing-expert-bb-cream/styles/product.css');
 @import url('../product/anti-bacterial-cleansing-wipes/styles/product.css');
 @import url('../product/anti-bacterial-facial-foam/styles/product.css');
-@import url('../product/anti-bacterial-facial-scrub/styles/product.css');
 
 @import url('../product/anti-bacterial-protection-facial-mist/styles/product.css');
 @import url('../product/bb-cc-cream/styles/product.css');

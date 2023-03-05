@@ -1,0 +1,50 @@
+main > .range-hello-glow {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .range-hello-glow > .products {
+  background-image: url('../images/products.png');
+  background-size: cover;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  visibility: hidden;
+}
+
+main > .range-hello-glow > .back-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .range-hello-glow > .products > .discover-product-button-01 {
+  position: absolute;
+  top: 900;
+  left: 500;
+}
+
+main > .range-hello-glow > .products > .discover-product-button-02 {
+  position: absolute;
+  top: 800;
+  left: 890;
+}
+
+main > .range-hello-glow > .products > .discover-product-button-03 {
+  position: absolute;
+  top: 690;
+  left: 1280;
+}
+
+main > .range-hello-glow > .products > .discover-product-button-04 {
+  position: absolute;
+  top: 570;
+  left: 1660;
+}

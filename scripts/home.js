@@ -71,9 +71,9 @@ export class Home {
     $('.start-here-btn').on('click', () => {
       $('.start-here-btn').unbind('click');
       barba.go(
-        `${Config.podURL}/menu-${
-          Config.menuVersion
-        }/index.html?sessionId=${Common.createUUID()}&sessionId=${AppState.getPendingSessionId()}&sessionType=on-display`
+        `${
+          Config.podURL
+        }/menu/index.html?sessionId=${Common.createUUID()}&sessionId=${AppState.getPendingSessionId()}&sessionType=on-display`
       );
     });
   }

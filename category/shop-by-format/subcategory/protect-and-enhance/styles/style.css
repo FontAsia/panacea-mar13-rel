@@ -1,0 +1,33 @@
+main > .format-protect-and-enhance {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .format-protect-and-enhance > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .format-protect-and-enhance > .touchpoint-01 {
+  position: absolute;
+  left: 153;
+  top: 303;
+}
+
+main > .format-protect-and-enhance > .touchpoint-02 {
+  position: absolute;
+  left: 746;
+  top: 303;
+}
+
+main > .format-protect-and-enhance > .touchpoint-03 {
+  position: absolute;
+  left: 1312;
+  top: 303;
+}

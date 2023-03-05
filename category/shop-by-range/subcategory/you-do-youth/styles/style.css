@@ -1,0 +1,56 @@
+main > .range-you-do-youth {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .range-you-do-youth > .products {
+  background-image: url('../images/products.png');
+  background-size: cover;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  visibility: hidden;
+}
+
+main > .range-you-do-youth > .back-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .range-you-do-youth > .products > .discover-product-button-01 {
+  position: absolute;
+  top: 850;
+  left: 330;
+}
+
+main > .range-you-do-youth > .products > .discover-product-button-02 {
+  position: absolute;
+  top: 730;
+  left: 610;
+}
+
+main > .range-you-do-youth > .products > .discover-product-button-03 {
+  position: absolute;
+  top: 620;
+  left: 870;
+}
+
+main > .range-you-do-youth > .products > .discover-product-button-04 {
+  position: absolute;
+  top: 550;
+  left: 1360;
+}
+
+main > .range-you-do-youth > .products > .discover-product-button-05 {
+  position: absolute;
+  top: 300;
+  left: 1760;
+}

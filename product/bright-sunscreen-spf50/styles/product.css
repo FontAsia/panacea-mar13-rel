@@ -28,14 +28,26 @@
   background-size: cover;
 }
 
-/* .bright-screen-spf50 > .goes-well-with-section > .discover-product-button-01 {
+.bright-screen-spf50 > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 750px;
-  left: 1100px;
-} */
+  top: 860px;
+  left: 720px;
+}
 
 .bright-screen-spf50 > .goes-well-with-section > .discover-product-button-02 {
   position: absolute;
-  top: 600px;
-  left: 1420px;
+  top: 632px;
+  left: 1276px;
+}
+
+.bright-screen-spf50 > .goes-well-with-section > .discover-product-button-03 {
+  position: absolute;
+  top: 532px;
+  left: 1518px;
+}
+
+.bright-screen-spf50 > .goes-well-with-section > .discover-product-button-04 {
+  position: absolute;
+  top: 425px;
+  left: 1780px;
 }

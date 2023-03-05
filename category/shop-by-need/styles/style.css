@@ -1,0 +1,51 @@
+main > .need {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .need > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .need > .touchpoint-01 {
+  position: absolute;
+  left: 114;
+  top: 204;
+}
+
+main > .need > .touchpoint-02 {
+  position: absolute;
+  left: 114;
+  top: 489;
+}
+
+main > .need > .touchpoint-03 {
+  position: absolute;
+  left: 114;
+  top: 775;
+}
+
+main > .need > .touchpoint-04 {
+  position: absolute;
+  left: 1065;
+  top: 204;
+}
+
+main > .need > .touchpoint-05 {
+  position: absolute;
+  left: 1065;
+  top: 489;
+}
+
+main > .need > .touchpoint-06 {
+  position: absolute;
+  left: 1065;
+  top: 775;
+}

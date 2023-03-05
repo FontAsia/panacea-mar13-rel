@@ -1,6 +1,5 @@
 import { Home } from './home.js';
-//import { MenuV02 } from '../menu-v02/scripts/menu.js';
-import { MenuV03 } from '../menu-v03/scripts/menu.js';
+import { Menu } from '../menu/scripts/menu.js';
 import { WhatsNew } from './whats-new.js';
 import { WhatsTrending } from './whats-trending.js';
 import { Category } from './category.js';
@@ -37,12 +36,7 @@ export class App {
     let transactions = [];
 
     transactions.push(Home.getBarbaTransition());
-    if (`${Config.menuVersion}` == 'v02') {
-      transactions.push(MenuV02.getBarbaTransition());
-    }
-    if (`${Config.menuVersion}` == 'v03') {
-      transactions.push(MenuV03.getBarbaTransition());
-    }
+    transactions.push(Menu.getBarbaTransition());
     transactions.push(WhatsNew.getBarbaTransition());
     transactions.push(WhatsTrending.getBarbaTransition());
     transactions.push(Category.getBarbaTransition());

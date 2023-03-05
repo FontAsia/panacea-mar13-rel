@@ -1,0 +1,131 @@
+main > .format-care {
+  background-image: url('../images/background.png');
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+
+main > .format-care > .back-to-home-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+main > .format-care > .touchpoint-01 {
+  position: absolute;
+  left: 81;
+  top: 174;
+}
+
+main > .format-care > .touchpoint-02 {
+  position: absolute;
+  left: 252;
+  top: 174;
+}
+main > .format-care > .touchpoint-03 {
+  position: absolute;
+  left: 422;
+  top: 174;
+}
+main > .format-care > .touchpoint-04 {
+  position: absolute;
+  left: 595;
+  top: 174;
+}
+main > .format-care > .touchpoint-05 {
+  position: absolute;
+  left: 820;
+  top: 174;
+}
+main > .format-care > .touchpoint-06 {
+  position: absolute;
+  left: 1050;
+  top: 174;
+}
+main > .format-care > .touchpoint-07 {
+  position: absolute;
+  left: 1279;
+  top: 174;
+}
+main > .format-care > .touchpoint-08 {
+  position: absolute;
+  left: 1452;
+  top: 174;
+}
+main > .format-care > .touchpoint-09 {
+  position: absolute;
+  left: 1681;
+  top: 174;
+}
+
+main > .format-care > .touchpoint-10 {
+  position: absolute;
+  left: 159;
+  top: 446;
+}
+main > .format-care > .touchpoint-11 {
+  position: absolute;
+  left: 401;
+  top: 446;
+}
+main > .format-care > .touchpoint-12 {
+  position: absolute;
+  left: 639;
+  top: 446;
+}
+main > .format-care > .touchpoint-13 {
+  position: absolute;
+  left: 876;
+  top: 446;
+}
+main > .format-care > .touchpoint-14 {
+  position: absolute;
+  left: 1105;
+  top: 446;
+}
+main > .format-care > .touchpoint-15 {
+  position: absolute;
+  left: 1333;
+  top: 446;
+}
+main > .format-care > .touchpoint-16 {
+  position: absolute;
+  left: 1560;
+  top: 446;
+}
+
+main > .format-care > .touchpoint-17 {
+  position: absolute;
+  left: 314;
+  top: 751;
+}
+main > .format-care > .touchpoint-18 {
+  position: absolute;
+  left: 551;
+  top: 751;
+}
+main > .format-care > .touchpoint-19 {
+  position: absolute;
+  left: 791;
+  top: 751;
+}
+main > .format-care > .touchpoint-20 {
+  position: absolute;
+  left: 1024;
+  top: 751;
+}
+
+main > .format-care > .touchpoint-21 {
+  position: absolute;
+  left: 1246;
+  top: 751;
+}
+
+main > .format-care > .touchpoint-22 {
+  position: absolute;
+  left: 1462;
+  top: 751;
+}

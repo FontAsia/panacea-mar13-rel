@@ -1,36 +1,35 @@
 .bb-magic-powder > .home-section {
-  background-image: url("../images/home-section.jpg");
+  background-image: url('../images/home-section.jpg');
   background-size: cover;
 }
 
 .bb-magic-powder > .about-the-product-section {
-  background-image: url("../images/about-the-product-section.jpg");
+  background-image: url('../images/about-the-product-section.jpg');
   background-size: cover;
 }
 
 .bb-magic-powder > .key-ingredients-section {
-  background-image: url("../images/key-ingredients-section.jpg");
+  background-image: url('../images/key-ingredients-section.jpg');
   background-size: cover;
 }
 
 .bb-magic-powder > .how-to-use-section {
-  background-image: url("../images/how-to-use-section.jpg");
+  background-image: url('../images/how-to-use-section.jpg');
   background-size: cover;
 }
 
 .bb-magic-powder > .ratings-and-reviews-section {
-  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-image: url('../images/ratings-and-reviews-section.jpg');
   background-size: cover;
 }
 
 .bb-magic-powder > .goes-well-with-section {
-  background-image: url("../images/goes-well-with-section.jpg");
+  background-image: url('../images/goes-well-with-section.jpg');
   background-size: cover;
 }
 
 .bb-magic-powder > .goes-well-with-section .discover-product-button-01 {
   position: absolute;
-  top: 750px;
-  left: 1150px;
+  top: 716px;
+  left: 1280px;
 }
-

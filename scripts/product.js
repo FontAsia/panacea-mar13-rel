@@ -116,7 +116,7 @@ export class Product {
     $('.close-button').on('click', () => {
       Product.unbindEvents();
       if (referrer == undefined || referrer == '') {
-        App.redirectTo(`${Config.podURL}/menu-${Config.menuVersion}/index.html`);
+        App.redirectTo(`${Config.podURL}/menu/index.html`);
       } else {
         App.redirectTo(`${Config.podURL}${referrer}/index.html`);
       }
@@ -130,10 +130,20 @@ export class Product {
   }
 
   static focus(selector) {
-    gsap.fromTo(selector, { backgroundColor: '#f9d6de' }, { backgroundColor: '#ffffff' });
+    var mainContainer = $('main>div');
+    if (mainContainer.hasClass('bright-brilliance-theme')) {
+      gsap.fromTo(selector, { backgroundColor: '#d4c3e6' }, { backgroundColor: '#ffffff' });
+    } else {
+      gsap.fromTo(selector, { backgroundColor: '#f9d6de' }, { backgroundColor: '#ffffff' });
+    }
   }
 
   static unfocus(selector) {
-    gsap.fromTo(selector, { backgroundColor: '#ffffff' }, { backgroundColor: '#f9d6de' });
+    var mainContainer = $('main>div');
+    if (mainContainer.hasClass('bright-brilliance-theme')) {
+      gsap.fromTo(selector, { backgroundColor: '#ffffff' }, { backgroundColor: '#d4c3e6' });
+    } else {
+      gsap.fromTo(selector, { backgroundColor: '#ffffff' }, { backgroundColor: '#f9d6de' });
+    }
   }
 }

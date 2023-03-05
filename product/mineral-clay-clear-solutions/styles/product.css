@@ -1,59 +1,41 @@
 .mineral-clay-clear-solutions > .home-section {
-  background-image: url("../images/home-section.jpg");
+  background-image: url('../images/home-section.jpg');
   background-size: cover;
 }
 
 .mineral-clay-clear-solutions > .about-the-product-section {
-  background-image: url("../images/about-the-product-section.jpg");
+  background-image: url('../images/about-the-product-section.jpg');
   background-size: cover;
 }
 
 .mineral-clay-clear-solutions > .key-ingredients-section {
-  background-image: url("../images/key-ingredients-section.jpg");
+  background-image: url('../images/key-ingredients-section.jpg');
   background-size: cover;
 }
 
 .mineral-clay-clear-solutions > .how-to-use-section {
-  background-image: url("../images/how-to-use-section.jpg");
+  background-image: url('../images/how-to-use-section.jpg');
   background-size: cover;
 }
 
 .mineral-clay-clear-solutions > .ratings-and-reviews-section {
-  background-image: url("../images/ratings-and-reviews-section.jpg");
+  background-image: url('../images/ratings-and-reviews-section.jpg');
   background-size: cover;
 }
 
 .mineral-clay-clear-solutions > .goes-well-with-section {
-  background-image: url("../images/goes-well-with-section.jpg");
+  background-image: url('../images/goes-well-with-section.jpg');
   background-size: cover;
 }
 
 .mineral-clay-clear-solutions > .goes-well-with-section > .discover-product-button-01 {
   position: absolute;
-  top: 790px;
-  left: 820px;
+  top: 746px;
+  left: 982px;
 }
 
 .mineral-clay-clear-solutions > .goes-well-with-section > .discover-product-button-02 {
   position: absolute;
-  top: 700px;
-  left: 1060px;
-}
-
-.mineral-clay-clear-solutions > .goes-well-with-section > .discover-product-button-03 {
-  position: absolute;
-  top: 610px;
-  left: 1280px;
-}
-
-.mineral-clay-clear-solutions > .goes-well-with-section > .discover-product-button-04 {
-  position: absolute;
-  top: 510px;
-  left: 1500px;
-}
-
-.mineral-clay-clear-solutions > .goes-well-with-section > .discover-product-button-05 {
-  position: absolute;
-  top: 400px;
-  left: 1740px;
+  top: 461px;
+  left: 1643px;
 }

@@ -36,10 +36,6 @@ export class WhatsNew {
   }
 
   static onceEnterBarbaHook() {
-    // var elements = gsap.utils.toArray(
-    //   document.querySelectorAll('.whats-new, .whats-new-bright-brilliance, .whats-new-hyaluron')
-    // );
-
     gsap.fromTo('.whats-new', { autoAlpha: 0, opacity: 0 }, { autoAlpha: 1, opacity: 1, delay: 0.5 });
   }
 
@@ -73,7 +69,7 @@ export class WhatsNew {
 
     $('.back-container > img').on(`click`, (event) => {
       WhatsNew.unbindEvents();
-      App.redirectTo(`${Config.podURL}/menu-${Config.menuVersion}/index.html`);
+      App.redirectTo(`${Config.podURL}/menu/index.html`);
     });
   }
 }
