@@ -1,6 +1,7 @@
 @import url('./common.css');
 @import url('./menu.css');
 @import url('./home.css');
+@import url('./redirect.css');
 
 @import url('../category/whats-new/styles/style.css');
 @import url('../category/whats-trending/styles/style.css');

@@ -1,0 +1,13 @@
+.redirect > .loader > p {
+  position: absolute;
+  top: 70%;
+  left: 49%;
+  color: white;
+}
+
+.redirect .version {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: #ffffff80;
+}

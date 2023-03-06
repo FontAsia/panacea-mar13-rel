@@ -60,6 +60,10 @@ export class FormatSubcategory {
 
   static bindEvents() {
     $(`main > .format-subcategory > .touchpoint`).on(`click`, (event) => {
+      if (`${$(event.currentTarget).data().to}` == '') {
+        return;
+      }
+
       $(`main > .format-subcategory > .touchpoint`).unbind(`click`);
       console.log('format-subcategory', $(event.currentTarget).data().to);
 

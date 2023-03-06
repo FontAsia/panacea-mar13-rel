@@ -10,6 +10,7 @@ import { Product } from './product.js';
 import { Common } from './common.js';
 import { Config } from '../config.js';
 import { AppState } from './appstate.js';
+import { Redirect } from './redirect.js';
 
 export class App {
   static COMMANDS_COLLECTION = 'commands';
@@ -35,6 +36,7 @@ export class App {
   static createTransitions() {
     let transactions = [];
 
+    transactions.push(Redirect.getBarbaTransition());
     transactions.push(Home.getBarbaTransition());
     transactions.push(Menu.getBarbaTransition());
     transactions.push(WhatsNew.getBarbaTransition());

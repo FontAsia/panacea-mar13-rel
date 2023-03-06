@@ -17,13 +17,13 @@ export class Home {
       },
       once(data) {
         console.log('home', 'once');
-        Home.preload();
+        // Home.preload();
         Home.onceEnterBarbaHook();
       },
       enter(data) {
         console.log('home', 'enter');
         AppState.startPageTrack();
-        $('.loader').hide();
+        // $('.loader').hide();
         Home.onceEnterBarbaHook();
       },
       afterOnce(data) {

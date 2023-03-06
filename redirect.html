@@ -1,0 +1,36 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>home:home</title>
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
+  <body data-barba="wrapper">
+    <div class="load-container">
+      <div class="loading-screen">
+        <img src="../../resources/images/common/ponds-loading.png" />
+      </div>
+    </div>
+    <main data-barba="container" data-barba-namespace="redirect">
+      <div class="redirect">
+        <div class="loader">
+          <img src="./resources/images/common/ponds-loading.png" />
+          <p></p>
+        </div>
+        <div class="version">v001-mar13-release</div>
+      </div>
+    </main>
+    <script src="./libs/firebase-app.js"></script>
+    <script src="./libs/firebase-firestore.js"></script>
+    <script src="./scripts/firebase-config.js"></script>
+    <script src="./libs/jquery-3.5.1.min.js"></script>
+    <script src="./libs/preloadjs.min.js"></script>
+    <script src="./libs/gsap.min.js"></script>
+    <script src="./libs/ScrollToPlugin.min.js"></script>
+    <script src="./libs/moment.js"></script>
+    <script src="./libs/barba.core.min.js"></script>
+    <script src="./libs/qrcode.min.js"></script>
+    <script type="module" src="./scripts/main.js"></script>
+  </body>
+</html>
