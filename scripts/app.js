@@ -27,7 +27,7 @@ export class App {
       return;
     }
 
-    if (`${Config.isOnline}`) {
+    if (Config.isOnline) {
       App.startCommandListener();
     }
     App.initBarba();
