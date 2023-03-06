@@ -32,8 +32,9 @@ export class Redirect {
     console.log('preloading');
     Preload.load(
       async () => {
+        let deviceId = Common.getQueryParameterByName('deviceId');
         console.log('loaded');
-        barba.go('/');
+        barba.go(`/?deviceId=${deviceId}`);
       },
       (percent) => {
         gsap.to('.redirect > .loader > img', { autoAlpha: percent, opacity: percent, duration: 0.1 });
