@@ -60,6 +60,9 @@ export class NeedSubcategory {
 
   static bindEvents() {
     $(`main > .need-subcategory > .touchpoint`).on(`click`, (event) => {
+      if (`${$(event.currentTarget).data().to}` == '') {
+        return;
+      }
       $(`main > .need-subcategory > .touchpoint`).unbind(`click`);
       console.log('need-subcategory', $(event.currentTarget).data().to);
       let referrer = `${$('.need-subcategory').data().category}${$(event.currentTarget).data().from}`;
